@@ -45,7 +45,7 @@ project_syncfusion_dashboard-main/
 Make sure you're in the project root:
 
 ```bash
-cd ~/Downloads/AI\ Class\ Material/project_syncfusion_dashboard-main/
+cd ~/Downloads/project_syncfusion_dashboard-main/
 ```
 
 Then run:
